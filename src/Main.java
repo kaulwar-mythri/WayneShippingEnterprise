@@ -131,7 +131,7 @@ public class Main {
     static int totalIncome = 0;
     static int totalDelivered = 0;
     static int totalCancelled = 0;
-    static final int MAX_INCOME = 4000000;
+    static final int MAX_INCOME = 1000000;
     static Ship[] ships = new Ship[5];
 
     public static void main(String[] args) {
